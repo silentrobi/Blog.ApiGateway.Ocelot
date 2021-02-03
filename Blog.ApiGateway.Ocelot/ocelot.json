@@ -6,8 +6,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 5020
+          "Host": "blog.service.blogapi",
+          "Port": 80
         }
       ]
     },
@@ -17,8 +17,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 5010
+          "Host": "blog.service.identity",
+          "Port": 80
         }
       ]
     }
